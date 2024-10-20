@@ -3,4 +3,4 @@ Jumped from master into myFeature.
 Second myFeature commit after divergent.
 Second master commit.
 Third master.
-
+Forth master.
